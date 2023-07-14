@@ -1,4 +1,5 @@
-#TinDog: A Static Responsive Webpage
+# TinDog: A Static Responsive Webpage
+
 TinDog is a meticulously designed and visually appealing static webpage that showcases your expertise in web development. Built using CSS, HTML, and the powerful Bootstrap framework, this project demonstrates your ability to create a visually stunning and user-friendly interface. By leveraging responsive design principles, TinDog offers a seamless user experience across various devices, ensuring that your webpage looks and functions flawlessly on desktops, tablets, and mobile devices.
 
 Inspired by the popular dating app Tinder, TinDog brings a unique twist by focusing exclusively on our furry friends. This frontend project serves as a faithful clone of Tinder's layout and functionalities, tailored specifically for dog lovers. From swiping through adorable dog profiles to matching with potential playmates for your furry companions, TinDog provides an engaging and interactive experience that captures the essence of Tinder's user interface and adaptively translates it into a dog-centric context.
